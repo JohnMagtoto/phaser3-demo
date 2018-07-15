@@ -1,0 +1,11 @@
+{
+	"compilerOptions": {
+		"outDir": "./dist/",
+		"noImplicitAny": true,
+		"target": "es5",
+		"module": "commonjs",
+		"sourceMap": true
+	},
+	"files": ["typings/phaser.d.ts", "typings/app.d.ts"],
+	"include": ["src/*.ts"]
+}
